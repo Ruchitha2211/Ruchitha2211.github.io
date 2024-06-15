@@ -14,4 +14,4 @@
 ###### 10
 ###### choose any num to continue
 ###### Thank you..!
-theme🌦️
+theme:jekyll-theme-minimal
